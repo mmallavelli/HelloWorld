@@ -1,2 +1,2 @@
 # HelloWorld
-New
+New to Git!
